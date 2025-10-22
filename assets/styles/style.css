@@ -1,5 +1,5 @@
-@import url(./assets/styles/fonts.css);
-@import url(./assets/styles/reset.css);
+@import url(./fonts.css);
+@import url(./reset.css);
 
 body {
   font-family: 'Rubik', Arial, Helvetica, sans-serif;
